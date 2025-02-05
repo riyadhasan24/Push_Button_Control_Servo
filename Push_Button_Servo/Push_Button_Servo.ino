@@ -1,3 +1,7 @@
+/* The source Code from : https://github.com/riyadhasan24
+ * By Md. Riyad Hasan
+ */
+
 #include <Servo.h>
 
 const int BUTTON_PIN = 12; // Arduino pin connected to button's pin
